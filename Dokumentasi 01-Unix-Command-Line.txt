@@ -1,0 +1,19 @@
+1. mkdir linda_hartianti
+2. cd linda_hartianti
+   mkdir sekolah
+   mkdir kerja
+3. cd sekolah
+    touch ijazah.txt
+    nano ijazah.txt
+    cat ijazah.txt
+    touch portofolio.txt
+    nano portofolio.txt
+4. cd ..
+5. cd kerja
+    touch cv.txt
+    nano cv.txt
+    cat cv.txt
+6. cd ..
+    mv sekolah/portofolio.txt kerja
+    ls kerja
+    ls sekolah
